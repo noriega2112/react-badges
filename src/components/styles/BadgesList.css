@@ -1,0 +1,33 @@
+.item-list {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.73);
+    display: flex;
+    flex-direction: row;
+    line-height: 100%;
+}
+
+
+/*#08AAEA*/
+
+.lista {
+    float: right;
+    list-style: none;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.pic {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    font-weight: 500;
+}
+
+.twitt {
+    color: #08AAEA;
+}
