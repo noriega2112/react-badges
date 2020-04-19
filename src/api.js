@@ -1,4 +1,4 @@
-const BASE_URL = 'https://noriega2112.github.io/react-badges:4000';
+const BASE_URL = 'https://noriega2112.github.io/react-badges:3001';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
